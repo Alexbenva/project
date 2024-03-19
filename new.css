@@ -1,0 +1,62 @@
+.bo {
+     padding-left: 30px;
+     padding-top: 20px;
+     background-image: url('/bl.pnp');
+     background-size: cover;
+     filter: brightness(90%);
+     filter: saturate(100vh);
+  }
+  form {
+       border: 1px;
+       background-color : wheat;
+       margin-top: 100px;
+       margin-left: 100px;
+       margin-right: 100px;
+       border-style: solid;
+       border-width: 10px;
+       border-color: rgb(170, 56, 75);
+       padding: 20px;
+       color: rgb(95, 42, 165);
+  }
+  p {
+       font-size: 15px;
+  }
+  .ip {
+       height: 10px;
+  }
+  
+ .ge {
+  margin-left: 0px;
+  padding-top: 50%;
+  width: 20px;
+ }
+ #mr {
+  width : 50px;
+ }
+ #sl{
+  width: 50px;
+ }
+ #ag {
+  width: 50px;
+ }
+ .i1 {
+      margin-left: 72px;
+ }
+ .i2 {
+      margin-left: 19px;
+ }
+ .i3 {
+  margin-left: 69px;
+ }
+ .i4 {
+  margin-left: 30px;
+ }
+ .i5 {
+  margin-left: 50px;
+ }
+ .i6 {
+  margin-left : 42px;
+ }
+ .mr {
+  margin-left : 44px;
+ }
